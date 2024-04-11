@@ -1,0 +1,14 @@
+C:\Users\Infor\source\repos\Course\ContractProcessing\bin\Debug\net8.0\ContractProcessing.exe
+C:\Users\Infor\source\repos\Course\ContractProcessing\bin\Debug\net8.0\ContractProcessing.deps.json
+C:\Users\Infor\source\repos\Course\ContractProcessing\bin\Debug\net8.0\ContractProcessing.runtimeconfig.json
+C:\Users\Infor\source\repos\Course\ContractProcessing\bin\Debug\net8.0\ContractProcessing.dll
+C:\Users\Infor\source\repos\Course\ContractProcessing\bin\Debug\net8.0\ContractProcessing.pdb
+C:\Users\Infor\source\repos\Course\ContractProcessing\obj\Debug\net8.0\ContractProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infor\source\repos\Course\ContractProcessing\obj\Debug\net8.0\ContractProcessing.AssemblyInfoInputs.cache
+C:\Users\Infor\source\repos\Course\ContractProcessing\obj\Debug\net8.0\ContractProcessing.AssemblyInfo.cs
+C:\Users\Infor\source\repos\Course\ContractProcessing\obj\Debug\net8.0\ContractProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Infor\source\repos\Course\ContractProcessing\obj\Debug\net8.0\ContractProcessing.dll
+C:\Users\Infor\source\repos\Course\ContractProcessing\obj\Debug\net8.0\refint\ContractProcessing.dll
+C:\Users\Infor\source\repos\Course\ContractProcessing\obj\Debug\net8.0\ContractProcessing.pdb
+C:\Users\Infor\source\repos\Course\ContractProcessing\obj\Debug\net8.0\ContractProcessing.genruntimeconfig.cache
+C:\Users\Infor\source\repos\Course\ContractProcessing\obj\Debug\net8.0\ref\ContractProcessing.dll
